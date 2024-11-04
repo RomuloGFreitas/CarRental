@@ -12,3 +12,4 @@ C:\Users\Rgfreitas\source\repos\CSharp Nelio\Aluguel de Veiculos\CarRental\CarRe
 C:\Users\Rgfreitas\source\repos\CSharp Nelio\Aluguel de Veiculos\CarRental\CarRental\obj\Debug\net6.0\CarRental.pdb
 C:\Users\Rgfreitas\source\repos\CSharp Nelio\Aluguel de Veiculos\CarRental\CarRental\obj\Debug\net6.0\CarRental.genruntimeconfig.cache
 C:\Users\Rgfreitas\source\repos\CSharp Nelio\Aluguel de Veiculos\CarRental\CarRental\obj\Debug\net6.0\ref\CarRental.dll
+C:\Users\Rgfreitas\source\repos\CSharp Nelio\Aluguel de Veiculos\CarRental\CarRental\obj\Debug\net6.0\CarRental.sourcelink.json
